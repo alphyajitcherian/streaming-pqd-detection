@@ -176,4 +176,4 @@ Evaluated over 10,000 test signals, each containing 4 injected transients (2 imp
 # Limitations & Future Work
 
 - **Synthetic training and evaluation data only.** The system has not yet been validated against real recorded power quality disturbance data.
-- **Two class classification.** Real-world PQDs include additional categories (sag, swell, harmonic distortion, etc) not covered here.
+- **Two class classification.** Real world PQDs include additional categories (sag, swell, harmonic distortion, etc) not covered here.
